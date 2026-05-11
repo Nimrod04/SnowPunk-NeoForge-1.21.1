@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "snowpunk:block/broken_rail"
+    }
+  }
+}

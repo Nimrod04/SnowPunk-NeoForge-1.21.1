@@ -1,0 +1,9 @@
+{
+  "item.snowpunk.conductors_wrench" : "Conductor's Wrench",
+  "item.snowpunk.chisel" : "Chisel",
+
+  "block.snowpunk.broken_rail" : "Broken Rail",
+
+  "creativetab.snowpunk.snowpunk_items" : "SnowPunk Items",
+  "creativetab.snowpunk.snowpunk_blocks" : "SnowPunk Blocks"
+}
